@@ -11,8 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-        // getting the recyclerview by its id
+//        snjnbsbjnsksknsjsbjsnsj shb
         val recyclerview = findViewById<RecyclerView>(R.id.recyclerview)
 
 
