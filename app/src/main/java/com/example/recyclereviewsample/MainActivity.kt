@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         // This loop will create 20 Views containing
         // the image with the count of view
-        for (i in 1..20) {
+        for (i in 1..30) {
             data.add(ItemsViewModel("Item " + i))
 
 
